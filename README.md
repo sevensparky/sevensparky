@@ -66,7 +66,7 @@
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Teharn
+⌚︎ Timezone: Asia/Tehrn
 
 💬 Languages: 
 PHP                      5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
