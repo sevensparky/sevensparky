@@ -47,6 +47,16 @@
 </p>
 
 <br>
+
+### - Live on IRAN 🏠
+
+<p align="center">
+<img src="https://cdn.dribbble.com/users/3154507/screenshots/7523013/media/91688fd01d3e6d5282523ef195ea1789.gif" width="430"> 
+</p>
+
+<br>
+
+
 <div>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" align="right"> 
 </div>
@@ -66,7 +76,7 @@
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Tehrn
+⌚︎ Timezone: Asia/Tehran
 
 💬 Languages: 
 PHP                      5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
@@ -82,5 +92,5 @@ VS Code                  8 hrs 35 mins       ███████████�
 
 💻 Operating Systems: 
 Linux                  18 hrs 52 mins      █████████████████████████   100.0%
-
+ 
 
