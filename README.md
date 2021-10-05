@@ -2,7 +2,7 @@
   🤓<strong> Hello There, I'm <a href="#">SajjaD</a></strong>
 </h1>
 
-### I am a Mid-level FullStack Developer 
+### I am a FullStack Developer 
 - 🌱 I’m currently learning Linux,Docker and Vue.js.😅
 - 👯 I’m looking to collaborate with other Developers 😊
 - ⚡ Fun fact: I love connecting with different people 🤝
@@ -48,7 +48,7 @@
 
 <br>
 
-### - Live on IRAN 🏠
+### - Live in IRAN 🏠
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/3154507/screenshots/7523013/media/91688fd01d3e6d5282523ef195ea1789.gif" width="430"> 
