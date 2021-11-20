@@ -11,30 +11,48 @@
 - 📫 contact with me: 
 
 <p align="center">
-<br>
-<a href="https://www.telegram.com/@Sajjad894"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://instagram.com/sajjad8942018"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<!--a href="https://www.linkedin.com/in/sa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a-->&nbsp;
-<a href="mailto:samkaveh9@gmail.com?subject=github%20direct%20link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+    <a href="https://github.com/samkaveh9" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    </a>
+<!--     <a href="https://twitter.com/amir_9480" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+    </a> -->
+    <a href="https://t.me/Sajjad894" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+    </a>
+    <a href="mailto:samkaveh9@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    </a>
+<!--     <a href="https://www.youtube.com/channel/UCiqoDyIn7deaORvz1sPaIGA"target="_blank">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+    </a> -->
+<!--     <a href="https://amiralizadeh9480.medium.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Medium-292929?logo=medium&style=for-the-badge" alt="Virgool">
+    </a> -->
+<!-- <a href="https://virgool.io/@amiralizadeh9480" target="_blank">
+        <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
+    </a> -->
 </p>
-
 <br>
 
 ### 🛠 - using Languages and Tools...
 
-<span><img height="64" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></span>
-<span><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></span>
-<span><img height="64" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc"></span>
-<span><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"></span>
-<span><img height="64" src="https://www.seekpng.com/png/detail/237-2372232_linux-logo-linux-logo.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></span>
-<span><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
-<span><img height="64" src="https://brandslogos.com/wp-content/uploads/images/php-logo-vector.svg"></span>
+<p align="center">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<!--     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> -->
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
+<!--     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> -->
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
 <br>
 ### 🛠 - Lover Languages and Tools...
@@ -47,50 +65,3 @@
 </p>
 
 <br>
-
-### - Live in IRAN 🏠
-
-<p align="center">
-<img src="https://cdn.dribbble.com/users/3154507/screenshots/7523013/media/91688fd01d3e6d5282523ef195ea1789.gif" width="430"> 
-</p>
-
-<br>
-
-
-<div>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" align="right"> 
-</div>
-<br>
-
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    106 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Tehran
-
-💬 Languages: 
-PHP                      5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
-Python                   5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-JavaScript               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
- 
- 
-🔥 Editors: 
-PyCharm                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
-WebStorm                 7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.33% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
-VS Code                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
-
-💻 Operating Systems: 
-Linux                  18 hrs 52 mins      █████████████████████████   100.0%
- 
-
