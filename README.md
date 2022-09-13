@@ -2,12 +2,6 @@
  🤓<strong>Hey Dev's!! I'm SajjaD</strong>
 </h1>
 
-### I am a Back-end Developer 
-- 🌱 I’m currently learning Linux,Docker and Vue.js.😅
-- 👯 I’m looking to collaborate with other Developers 😊
-- ⚡ Fun fact: I love connecting with different people 🤝
-
-<br>
 - 📫 contact with me: 
 
 <p align="center">
