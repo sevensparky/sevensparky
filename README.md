@@ -11,7 +11,7 @@
    <a href="https://gitlab.com/samkaveh9" target="_blank">
         <img src="https://img.shields.io/badge/-Gitlab-181717?&logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab">
     </a>
-    <a href="mailto:samkaveh9@gmail.com" target="_blank">
+    <a href="mailto:sajjadpy7@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
 </p>
@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-Lua-00599C?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
-    <img src="https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<!--     <img src="https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/-Livewire-ED64A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
     <img src="https://img.shields.io/badge/-Phpstorm-007ACC?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/-Linux-00599C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<!--     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
