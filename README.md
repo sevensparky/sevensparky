@@ -21,7 +21,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/-Lua-00599C?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+    <img src="https://img.shields.io/badge/-GO-00599C?style=for-the-badge&logo=go&logoColor=white" alt="GO">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
 <!--     <img src="https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
